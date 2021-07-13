@@ -1,7 +1,11 @@
 * {
      font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
-     color: white;
+     color: #ffd0a1;
 }
+html {
+     scroll-behavior: smooth;
+}
+
 .bg-green {
      background-color: #587059;
 }
@@ -33,4 +37,8 @@
 
 .nav-link {
      color: white;
+}
+
+.card {
+     border: 0px;
 }
