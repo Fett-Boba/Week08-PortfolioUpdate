@@ -1,6 +1,7 @@
 * {
      font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
-     color: #ffd0a1;
+     /* color: #ffd0a1; */
+     color: #e1bd3e;
 }
 html {
      scroll-behavior: smooth;
@@ -42,3 +43,27 @@ html {
 .card {
      border: 0px;
 }
+
+.rounded-corners {
+     border-radius: 25px;
+}
+
+/* a:hover {
+     background-color:#aaa;
+     color:white;
+ }
+
+a:active {
+       background-color:#000;
+       color:white;
+ } */
+
+.menu-tab:hover {
+     background-color:#587059;
+     color:white;
+ }
+
+.menu-tab:active {
+       background-color:#000;
+       color:white;
+ }
